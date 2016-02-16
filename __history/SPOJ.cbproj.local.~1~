@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.112,=C:\Users\Rafael\Documents\RAD Studio\Projects\File2.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.663,C:\Users\Rafael\Documents\RAD Studio\Projects\File2.cpp=C:\Users\Rafael\Desktop\SPOJ\SPOJ.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.277,C:\Users\Rafael\Documents\RAD Studio\Projects\Project2.cbproj=C:\Users\Rafael\Desktop\SPOJ\SPOJ.cbproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.520,C:\Users\Rafael\Documents\RAD Studio\Projects\Project2PCH1.h=C:\Users\Rafael\Desktop\SPOJ\SPOJ.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.911,=C:\Users\Rafael\Documents\RAD Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2015-06-16 01:20:48.350,C:\Users\Rafael\Desktop\SPOJ\SPOJ.h=</Transaction>
+    <Transaction>2015-06-16 01:20:57.631,=C:\Users\Rafael\Desktop\SPOJ\PRIME_T.cpp</Transaction>
+    <Transaction>2015-06-16 01:21:04.261,C:\Users\Rafael\Desktop\SPOJ\SPOJ.cpp=</Transaction>
+  </Transactions>
+</BorlandProject>

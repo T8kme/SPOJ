@@ -1,0 +1,19 @@
+#include<iostream>
+
+using namespace std;
+
+int main() {
+	int length, number1, number2, intensification;
+	cin >> length;
+
+	while (length--) {
+
+		cin >> number1 >> number2;
+
+		intensification = 2 ^ 3;
+
+		cout << intensification << endl;
+	}
+	system("PAUSE");
+	return 0;
+}

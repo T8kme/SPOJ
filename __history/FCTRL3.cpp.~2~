@@ -1,0 +1,24 @@
+#include<iostream>
+
+using namespace std;
+
+int main() {
+	int length, number;
+	cin >> length;
+
+	while (length > 0) {
+
+	cin >> number;
+
+	int factorial = 0;
+	for (int i = 1; i <= number; i++) {
+		factorial *= i;
+	}
+	cout << factorial << endl;
+	//cout << factorial % 100 - factorial % 10 << " " << factorial % 10 << endl;
+
+	length--;
+	}
+	system("PAUSE");
+	return 0;
+}

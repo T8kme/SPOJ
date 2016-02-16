@@ -1,0 +1,49 @@
+#include <iostream>
+#include <stdlib.h>
+
+using namespace std;
+
+bool IsPrime(int);
+
+int main() {
+	int length, number;
+	cin >> length;
+	int *tab = new int[length];
+
+	for (int i = 0; i < length; i++) {
+		cin >> number;
+
+		if (IsPrime(number)) {
+			tab[i] = 1;
+		}
+		else {
+			tab[i] = 0;
+		}
+	}
+	for (int i = 0; i < length; i++) {
+		if (tab[i] == 1) {
+			cout << "TAK" << endl;
+		}
+		else {
+			cout << "NIE" << endl;
+		}
+	}
+	delete[]tab;
+	return 0;
+}
+
+bool IsPrime(int number) { // Given:   num an integer > 1
+	// Returns: true if num is prime
+	// false otherwise.
+
+	if (number == 1) {
+		return false;
+	}
+	for (int i = 2; i < number; i++) {
+		if (number % i == 0) {
+			return false;
+		}
+	}
+
+	return true;
+}

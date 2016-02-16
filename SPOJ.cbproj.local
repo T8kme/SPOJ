@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.350,C:\Users\Rafael\Desktop\SPOJ\SPOJ.h=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.112,=C:\Users\Rafael\Documents\RAD Studio\Projects\File2.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.663,C:\Users\Rafael\Documents\RAD Studio\Projects\File2.cpp=C:\Users\Rafael\Desktop\SPOJ\SPOJ.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.261,C:\Users\Rafael\Desktop\SPOJ\SPOJ.cpp=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.520,C:\Users\Rafael\Documents\RAD Studio\Projects\Project2PCH1.h=C:\Users\Rafael\Desktop\SPOJ\SPOJ.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.911,=C:\Users\Rafael\Documents\RAD Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.629,D:\ProjektyCpp\SPOJ\FCTRL3.cpp=D:\ProjektyCpp\SPOJ\PRIME_T.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.626,D:\ProjektyCpp\SPOJ\PA05_POT.cpp=D:\ProjektyCpp\SPOJ\FCTRL3.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.277,C:\Users\Rafael\Documents\RAD Studio\Projects\Project2.cbproj=C:\Users\Rafael\Desktop\SPOJ\SPOJ.cbproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.631,=C:\Users\Rafael\Desktop\SPOJ\PRIME_T.cpp</Transaction>
+    <Transaction>2016-02-16 17:26:57.593,=D:\ProjektyCpp\SPOJ\File1.c</Transaction>
+    <Transaction>2016-02-16 17:27:08.577,=D:\ProjektyCpp\SPOJ\File1.cpp</Transaction>
+    <Transaction>2016-02-16 17:27:26.485,D:\ProjektyCpp\SPOJ\BEZPRZEC.cpp=D:\ProjektyCpp\SPOJ\File1.cpp</Transaction>
+    <Transaction>2016-02-16 17:27:44.293,D:\ProjektyCpp\SPOJ\PA05_POT.cpp=</Transaction>
+    <Transaction>2016-02-16 17:36:20.252,=D:\ProjektyCpp\SPOJ\File1.cpp</Transaction>
+    <Transaction>2016-02-16 17:36:45.026,D:\ProjektyCpp\SPOJ\RODZ_TRO.cpp=D:\ProjektyCpp\SPOJ\File1.cpp</Transaction>
+    <Transaction>2016-02-16 17:36:50.969,D:\ProjektyCpp\SPOJ\BEZPRZEC.cpp=</Transaction>
+  </Transactions>
+</BorlandProject>
